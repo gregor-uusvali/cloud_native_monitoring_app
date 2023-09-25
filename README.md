@@ -13,7 +13,7 @@ Before you begin, ensure you have the following prerequisites in place:
 
 kubectl: Install kubectl, the Kubernetes command-line tool, and configure it to connect to your cluster.
 
-Project Structure
+Project Structure  
 ├── templates/  
 │   ├── index.html/  
 ├── app.py  
