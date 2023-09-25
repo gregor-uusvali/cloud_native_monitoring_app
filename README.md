@@ -14,12 +14,12 @@ Before you begin, ensure you have the following prerequisites in place:
 kubectl: Install kubectl, the Kubernetes command-line tool, and configure it to connect to your cluster.
 
 Project Structure
-├── templates/
-│   ├── index.html/
-├── app.py
-├── Dockerfile
-├── README.md
-├── requirements.txt
-├── run-docker.sh
+├── templates/  
+│   ├── index.html/  
+├── app.py  
+├── Dockerfile  
+├── README.md  
+├── requirements.txt  
+├── run-docker.sh  
 
 Happy Monitoring! 🚀
